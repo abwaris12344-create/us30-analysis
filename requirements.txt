@@ -1,7 +1,8 @@
 flask
-tvdatafeed
 pandas
 numpy
 matplotlib
 pytz
 requests
+websocket-client
+git+https://github.com/StreamAlpha/tvdatafeed.git
