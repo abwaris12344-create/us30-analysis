@@ -1,6 +1,7 @@
 flask
+tvdatafeed
 pandas
 numpy
-tvdatafeed
-pytz
 matplotlib
+pytz
+requests
