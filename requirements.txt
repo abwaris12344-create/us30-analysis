@@ -4,5 +4,4 @@ numpy
 matplotlib
 pytz
 requests
-websocket-client
-tvdatafeed
+yfinance
